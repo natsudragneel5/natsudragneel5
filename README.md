@@ -1,8 +1,9 @@
-### Hi there 👋
-
+<p><h1>Hi there,I'm Alroy👋</h1></p>
+    <p><a href="https://www.linkedin.com/in/alroy-fernandes-5a12b0131/">Linked In</a></p>
+    <p><h1></h1></p><br>
+    <p>[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=natsudragneel5)](https://github.com/anuraghazra/github-readme-stats)
+    </p>
 <!--
-**natsudragneel5/natsudragneel5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
