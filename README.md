@@ -1,8 +1,9 @@
 <p><h1>Hi there,I'm Alroy👋</h1></p>
-    <p><a href="https://www.linkedin.com/in/alroy-fernandes-5a12b0131/">Linked In</a></p>
-    <p><h1></h1></p><br>
+    <p><a href="https://www.linkedin.com/in/alroy-fernandes-5a12b0131/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a><br>
+    Professional with Programming, Computer Assembly, Hardware, Networking and Troubleshooting skills.
+    </p><br>
+    <p><h1></h1></p>
     <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=natsudragneel5&layout=compact&theme=radical" width="400" />
     </p>
 <!--
 Here are some ideas to get you started:
