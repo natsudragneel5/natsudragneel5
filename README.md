@@ -2,7 +2,7 @@
     <p><a href="https://www.linkedin.com/in/alroy-fernandes-5a12b0131/">Linked In</a></p>
     <p><h1></h1></p><br>
     <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=natsudragneel5&theme=radical&show_icons=true" width="450"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=natsudragneel5&layout=compact&theme=radical" width="400" />
     </p>
 <!--
 Here are some ideas to get you started:
