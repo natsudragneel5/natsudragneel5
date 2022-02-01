@@ -4,7 +4,7 @@
     </p><br>
     <p><h1>My Projects</h1></p>
     <p>
-    <a src="https://romantic-kowalevski-407b39.netlify.app/">RCalendar</a>
+    <a href="https://romantic-kowalevski-407b39.netlify.app/">RCalendar</a>
     </p>
 <!--
 Here are some ideas to get you started:
