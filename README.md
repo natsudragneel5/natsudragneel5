@@ -6,7 +6,6 @@
     <a href="https://romantic-kowalevski-407b39.netlify.app/">RCalendar</a>
     <br>
     <img href="https://github.com/natsudragneel5/natsudragneel5/blob/main/rcalLogo.jpg?raw=true" />
-    ![](/../main/rcalLogo.jpg?raw=true "Optional Title")
     
 <!--
 Here are some ideas to get you started:
