@@ -4,7 +4,7 @@
     </p><br>
     <p><h1>My Projects</h1></p>
     <a href="https://romantic-kowalevski-407b39.netlify.app/">RCalendar</a>
-    ![Alt text](https://github.com/natsudragneel5/natsudragneel5/blob/main/rcalLogo.jpg "Optional title")
+    <img src="https://github.com/natsudragneel5/natsudragneel5/blob/main/rcalLogo.jpg" />
     
 <!--
 Here are some ideas to get you started:
