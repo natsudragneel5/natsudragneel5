@@ -3,9 +3,9 @@
     Professional with Programming, Computer Assembly, Hardware, Networking and Troubleshooting skills.
     </p><br>
     <p><h1>My Projects</h1></p>
-    <p>
+    
     <iframe src="https://romantic-kowalevski-407b39.netlify.app/" ><a href="https://romantic-kowalevski-407b39.netlify.app/"></a></iframe>
-    </p>
+    
 <!--
 Here are some ideas to get you started:
 
