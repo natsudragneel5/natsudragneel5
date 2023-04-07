@@ -2,7 +2,7 @@
     <p><p href="https://www.linkedin.com/in/alroy-fernandes-5a12b0131/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></p><br>
     Professional with Programming, GameDevelopment skills.
     </p><br>
-    <a href="https://alroy.vercel.app"><h1>My Portfolio</h1></a>
+    <a href="https://alroy.vercel.app">My Portfolio</a>
 <!--
 Here are some ideas to get you started:
 
