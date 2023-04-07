@@ -2,10 +2,7 @@
     <p><p href="https://www.linkedin.com/in/alroy-fernandes-5a12b0131/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></p><br>
     Professional with Programming, GameDevelopment skills.
     </p><br>
-    <p><h1>My Projects</h1></p>
-    <a href="https://romantic-kowalevski-407b39.netlify.app/">RCalendar</a>
-    <br>
-    <img width="200px" height="200px" onclick="window.location.href('https://romantic-kowalevski-407b38.netlify.app/')" href="https://github.com/natsudragneel5/natsudragneel5/main/rcalLogo.jpg" />
+    <a href="https://alroy.vercel.app"><h1>My Portfolio</h1></a>
 <!--
 Here are some ideas to get you started:
 
